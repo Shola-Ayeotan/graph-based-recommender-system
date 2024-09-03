@@ -1,5 +1,5 @@
 
-# Recommender Engine for an eCommerce website
+# eCommerce Recommender Engine 
 
 ## Overview
 This project developed a Graph-based recommendation system for an eCommerce platform, leveraging user purchase and search history to recommend products. By transforming user interaction data into graph embeddings and using ANN-FAISS model, the system aimed to enhance product discoverability and user experience.
